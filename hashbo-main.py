@@ -138,8 +138,7 @@ def main():
     print("Running Hashcat on the batch...")
 
     retcode = run_hashcat_with_progress([
-        "hashcat", "-m", HASHCAT_MODE, "-a", "0",
-        "--potfile-disable", "--remove", "--force",
+        "hashcat", "-m", HASHCAT_MODE, "-a", "0", "--remove", "--force",
         HASHFILE, filename
     ])
 
