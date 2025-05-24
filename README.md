@@ -95,6 +95,4 @@ This tool is intended for **educational and authorized** security testing only. 
 
 MIT License
 
----
 
-Let me know if you’d like a more stylized version (with images, logo, or usage GIFs), or if you'd like to rename and brand it for public release.
